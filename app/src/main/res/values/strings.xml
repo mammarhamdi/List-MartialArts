@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">RAGAM SENI BELADIRI</string>
+
+    <string name="martial_name">Nama Beladiri</string>
+
+    <string name="description">Deskripsi</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+
+    <string name="detail_photo">Detail Photo</string>
+
+    <string-array name="data_name">
+        <item>Pencak Silat</item>
+        <item>Taekwondo</item>
+        <item>Karate</item>
+        <item>Tinju</item>
+        <item>Muay Thai</item>
+        <item>Judo</item>
+        <item>Aikido</item>
+        <item>Kung Fu</item>
+        <item>Wushu</item>
+        <item>MMA</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Pencak silat adalah suatu seni bela diri tradisional yang berasal dari Indonesia.[1] Seni bela diri ini secara luas dikenal di Indonesia, Malaysia, Brunei, Singapura, Filipina selatan, dan Thailand selatan sesuai dengan penyebaran berbagai suku bangsa Nusantara (Indonesia). Unsur-unsur untuk membela diri dengan seni bela diri, yaitu dengan menggunakan pukulan dan tendangan. Pencak silat merupakan bela diri yang banyak diminati oleh banyak orang terutama masyarakat Indonesia.</item>
+        <item>Taekwondo (Hangul: 태권도; Hanja: 跆拳道, juga dieja sebagai Tae Kwon Do atau Tae Kwon-do) adalah seni bela diri asal Korea Selatan yang juga sebagai olahraga nasional Tiongkok. Taekwondo adalah salah satu seni bela diri terkenal dunia yang dipertandingkan di olimpiade. Dalam bahasa Korea, Hanja untuk kata Tae berarti "menendang atau menghancurkan dengan kaki"; Kwon berarti "tinju"; dan Do berarti "jalan" atau "seni". Jadi, Taekwondo dapat diartikan sebagai "seni tangan dan kaki" atau "cara kaki dan kepalan". Kepopuleran Taekwondo telah menyebabkan seni ini berkembang dalam berbagai bentuk. Seperti banyak seni bela diri lainnya, Taekwondo adalah gabungan dari teknik perkelahian, bela diri, olahraga, hiburan, dan filsafat. Biasanya para Taekwondoin menyapa seseorang di media sosial dengan sebutan Kyongrye.</item>
+        <item>Karate (Jepang: 空 手 ) adalah seni bela diri yang berasal dari Jepang. Seni bela diri ini sedikit dipengaruhi oleh seni bela diri Cina, Kempo. Karate dibawa masuk ke Jepang lewat Okinawa dan mulai berkembang di Ryukyu Islands. Seni bela diri ini pertama kali disebut "Tote” yang berarti seperti “Tinju China”. Ketika karate masuk ke Jepang, nasionalisme Jepang pada saat itu sedang tinggi-tingginya, sehingga Sensei Gichin Funakoshi mengubah kanji Okinawa (Tote: Tinju China) dalam kanji Jepang menjadi ‘karate’ (tangan kosong) agar lebih mudah diterima oleh masyarakat Jepang. Karate terdiri dari atas dua kanji. Yang pertama adalah ‘Kara’　空 dan berarti ‘kosong’. Dan yang kedua, ‘te’　手, berarti ‘tangan'. Yang dua kanji bersama artinya “tangan kosong”　空手 (pinyin: kongshou).</item>
+        <item>Tinju adalah olahraga dan seni bela diri yang menampilkan dua orang partisipan dengan berat yang serupa bertanding satu sama lain dengan menggunakan tinju mereka dalam rangkaian pertandingan berinterval satu atau tiga menit yang disebut ronde. Baik dalam Olimpiade ataupun olahraga profesional, kedua petinju menghindari pukulan lawan mereka sambil berupaya mendaratkan pukulan mereka sendiri ke lawannya.</item>
+        <item>Muay Thai atau Tinju Thai (bahasa Thai: มวยไทย, IPA: [muɛ̄j tʰɑ̄j]) adalah seni bela diri keras dari Kerajaan Thai. Muay Thai mirip dengan gaya seni bela diri lain dari Indocina (dan juga dari bangsa Melayu); seperti pradal serey dari daerah Kamboja, tomoi dari daerah Malaysia (termasuk di negara Indonesia yang disebut benjang atau gelut galuh), lethwei dari daerah Myanmar, muay thái dari daerah Vietnam (yang menunjukkan Kerajaan Champa mendapatkan ilmunya dari negeri Sunda atau Majapahit) dan muay lao dari daerah Laos. Muay Thai adalah olahraga nasional Kerajaan Thai dan turunan dari bela d</item>
+        <item>Judo (bahasa Jepang: 柔道 ) adalah seni bela diri, olahraga, dan filosofi yang berakar dari Jepang. Judo dikembangkan dari seni bela diri kuno Jepang yang disebut Jujutsu. Jujutsu yang merupakan seni bertahan dan menyerang menggunakan tangan kosong maupun senjata pendek, dikembangkan menjadi Judo oleh Kano Jigoro (嘉納治五郎) pada 1882. Olahraga ini menjadi model dari seni bela diri Jepang, gendai budo, dikembangkan dari sekolah (koryu) tua. Pemain judo disebut judoka atau pejudo. Judo sekarang merupakan sebuah cabang bela diri yang populer, bahkan telah menjadi cabang olahraga resmi Olimpiade.</item>
+        <item>Aikido (bahasa Jepang: 合気道, aikidō) adalah seni bela diri yang mempunyai akar pertumbuhan dan budaya dari Jepang. Aikido merupakan manifestasi dari modernisasi pemikiran Jepang dengan selimut budaya Jepang tradisional. Hal ini membuat seni beladiri yang dikembangkan oleh Morihei Ueshiba sekitar tahun 1800-an (植芝 盛平 Ueshiba Morihei) menjadi sangat diminati berbagai kalangan pada abad modern ini sebagai sebuah gaya hidup. Akar ilmu bela diri aikido terutama berasal dari sebuah tradisi bela diri kuno yang turun temurun hanya dimiliki oleh sebuah keluarga istana, yaitu "Daito Ryu Aiki-Jujutsu (atau ju-jutsu)".</item>
+        <item>Kungfu atau gongfu (功夫, Pinyin: gōngfu) adalah ilmu bela diri yang berasal dari Tiongkok kuno. Akan tetapi, arti kata Kungfu sebenarnya memiliki makna yang jauh lebih luas, yakni sesuatu yang diperoleh dalam jangka waktu yang lama dan dengan ketekunan yang tinggi. Dengan demikian, seorang ahli pelaku yang mempunyai keahlian khusus atau hebat pun dapat dikatakan memiliki Kungfu yang tinggi.</item>
+        <item>Wushu (武術 atau 武术; Hanzi: wǔshù) secara harafiah berarti "seni bertempur/bela diri". Ini merupakan istilah lain dari kung fu yang lebih dahulu populer, yang berarti "ahli" dalam bidang tertentu, sehingga dalam bela diri sering ada istilah wingchun kungfu, hunggar kungfu dan lain-lain, yang artinya ahli wing chun, ahli hunggar dan sebagainya. Kata Wushu berasal dari dua kata yaitu “Wu” dan “Shu”. Arti dari kata “Wu” adalah ilmu perang, sedangkan arti kata “Shu” adalah seni. Sehingga Wushu bisa juga diartikan sebagai seni untuk berperang atau seni beladiri (Martial Art). Namun seni perang bukan hanya seni gerak badan, tapi mencakup hal yang lebih luas, yaitu seni menggerakan pasukan, mengatur logistik, mengatur strategi dan sebagainya. Jadi untuk Kata Wushu arti yang paling tepat adalah seni beladiri atau Martial Art.</item>
+        <item>Seni bela diri campuran atau lebih dikenal dengan sebutan mixed martial arts (MMA) adalah olahraga kontak yang memperbolehkan berbagai teknik pertarungan, seperti pergumulan, tendangan, dan pukulan.Walaupun ada beberapa aturan dalam pertarungan MMA modern, tetapi tetaplah MMA adalah pertandingan kombat sport yang cukup brutal dan sadis. Peraturan tergantung pada organisasi masing-masing. Di dalam MMA, masing-masing praktisi didorong untuk mengkombinasikan teknik dari berbagai cabang seni bela diri untuk melumpuhkan lawan.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/silat</item>
+        <item>@drawable/taekwondo</item>
+        <item>@drawable/karate</item>
+        <item>@drawable/tinju</item>
+        <item>@drawable/muaythai</item>
+        <item>@drawable/judo</item>
+        <item>@drawable/aikido</item>
+        <item>@drawable/kungfu</item>
+        <item>@drawable/wushu</item>
+        <item>@drawable/mma</item>
+    </integer-array>
+</resources>
